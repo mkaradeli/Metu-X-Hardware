@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "LM2596") (type "KiCad") (uri "${KIPRJMOD}/LM2596.kicad_sym") (options "") (descr ""))
+	(lib (name "aewdmwd") (type "") (uri "/Users/karadeli/Documents/KiCad/10.0/Symbols") (options "") (descr ""))
+)
